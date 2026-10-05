@@ -42,59 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+**Market Size & Sector Structure**: The global news aggregator market is estimated at **~$14.8 Billion to $15.0 Billion (2025/2026)** and is projected to reach **~$29.8 Billion by 2033** (CAGR ~9.1%). The sector is **moderately to highly fragmented**: mass-consumer news portals are dominated by big-tech giants, while niche content curation, power-user RSS reading, and AI feed summarization are distributed across specialized commercial platforms and self-hosted open-source tools.
 
+| Product / Platform | Description & Key Features | Pricing (Starting Paid Tier) | Free Tier Limit | Company Size / Valuation / Revenue |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Apple News](https://www.apple.com/apple-news/)** | Curated news combining human editors and algorithmic personalization. Apple News+ adds digital magazines and premium audio stories. | **$12.99/month** (Apple News+ standard individual subscription) | Free app with select article previews; 1-month free trial for Apple News+ (3 months with eligible new Apple device) | **~$3.84 Trillion - $4.98 Trillion** Market Cap *(Apple Inc.)* |
+| **[Microsoft Start](https://www.msn.com/)** | Windows, Edge, and MSN-integrated content aggregator delivering personalized news, weather, and trending topics. | **Free** (Ad-supported, no paid premium tier) | Unlimited ad-supported web/mobile feed access (no custom RSS feed imports) | **~$3.84 Trillion** Market Cap *(Microsoft Corp.)* |
+| **[Google News](https://news.google.com/)** | Algorithmic AI-powered news clustering, topic following, and local coverage spanning news publishers across 125+ countries. | **Free** (Ad-supported, no paid premium tier) | Unlimited ad-supported personalized feed access and search (no ad-free plan or feed import) | **~$2.10 Trillion - $2.50 Trillion** Market Cap *(Alphabet Inc.)* |
+| **[SmartNews](https://www.smartnews.com/)** | Machine-learning news discovery platform focused on quality journalism, "Smart" channels, and local news delivery. | **Free** (Ad-supported, no paid premium tier) | Unlimited ad-supported article reading and offline channel browsing | **$2.0 Billion** Valuation (~$104.5M Annual Revenue; ~500 employees) |
+| **[Flipboard](https://flipboard.com/)** | Magazine-style aggregation platform allowing users to curate custom digital "Magazines" from any Web/RSS source. | **Free** (Ad-supported, creator referral ad revenue sharing) | Unlimited magazine creation, curation, and reading with no reader paywalls | **$1.3 Billion** Valuation (~$34M - $71M Annual Revenue; ~150 employees) |
+| **[NewsBreak](https://www.newsbreak.com/)** | AI-driven hyperlocal news aggregator connecting local content creators and publishers with U.S. community readers. | **Free** (Ad-supported, no paid premium tier) | Unlimited hyper-local news feed access and community contributor posts | **$1.0 Billion** Valuation (~$100M Annual Revenue; ~350 employees) |
+| **[Pocket](https://getpocket.com/)** | Save-for-later article reader and discovery service (*Service officially shut down by Mozilla on July 8, 2025*). | **Discontinued** ($4.99/month or $44.99/year prior to July 2025 shutdown) | Service Shutdown (Export-only window concluded Nov 12, 2025; historically unlimited article saving) | **~$600 Million** Annual Revenue *(Mozilla Corp parent; acquired Pocket for ~$30M)* |
+| **[Feedly](https://feedly.com/)** | Leading commercial RSS reader featuring AI assistant ("Leo") for feed deduplication, keyword filtering, and team boards. | **$6.00/month** (Billed annually at $72/yr for Pro tier; Pro+ with AI at $12.99/mo) | Up to 100 RSS sources across 3 folders max (no AI filtering, power search, or integrations) | **~$7 Million - $10 Million** ARR (Bootstrapped private company; ~60 employees) |
+| **[Inoreader](https://www.inoreader.com/)** | Power-user RSS reader featuring automation rules, keyword monitoring, newsletter feeds, and WebSub push updates. | **$7.50/month** (Billed annually at $90/yr for Pro tier; $9.99/mo monthly) | Up to 150 RSS subscriptions, 20 newsletter feeds, and 20 web feeds (ad-supported) | **~$1 Million - $2 Million** ARR (Bootstrapped Innologica Ltd; ~10 employees) |
 
-- **[Google News](https://news.google.com/)**  
-
-  **The most widely used algorithmic news aggregator** — AI-powered clustering, topic following, and local news. **Free** but algorithm-driven with no user control over sources.
-
-
-
-- **[Apple News](https://www.apple.com/apple-news/)**  
-
-  **Curated news with human editors + algorithmic personalization** — Apple News+ adds magazines. **Subscription-based** ($9.99/month). **Best for Apple ecosystem users** .
-
-
-
-- **[Microsoft Start](https://www.msn.com/)**  
-
-  Microsoft's news aggregator integrated with Windows, Edge, and MSN. **Free, ad-supported** — personalized feed with no RSS support.
-
-
-
-- **[Flipboard](https://flipboard.com/)**  
-
-  **Magazine-style aggregation with user-curated "Magazines"** — create custom magazines from any source. **Free with Flipboard+** . **Best for visual, topic-based browsing** .
-
-
-
-- **[SmartNews](https://www.smartnews.com/)**  
-
-  **News discovery focused on quality journalism** — "Smart" channels and local news. **Free, ad-supported** .
-
-
-
-- **[Pocket](https://getpocket.com/)**  
-
-  **Read-it-later service with recommendations** — save articles, discover curated content. **Free tier available**; Premium for permanent library. **Best for saving and reading articles later** .
-
-
-
-- **[Feedly](https://feedly.com/)**  
-
-  **The leading commercial RSS reader with AI-powered "Leo"** — prioritization, keyword filtering, and team sharing. **Free tier (100 sources)**; Pro at $8/month. **The best commercial RSS experience** .
-
-
-
-- **[NewsBreak](https://www.newsbreak.com/)**  
-
-  **Hyperlocal news aggregator** — contributor network and local focus. **Free, ad-supported** .
-
-
-
-- **[Inoreader](https://www.inoreader.com/)**  
-
-  **Powerful RSS reader with automation rules** — search, filtering, and team collaboration. **Free tier (150 feeds)**; Plus at $7.50/month. **The best commercial RSS reader for power users** .
 
 
 
